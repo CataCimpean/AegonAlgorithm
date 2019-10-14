@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AegonAlgorithmApp", "AegonAlgorithmApp\AegonAlgorithmApp.csproj", "{27CD0F44-AFFE-4E08-965A-410DBC26F04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AegonNUnit", "AegonNUnit\AegonNUnit.csproj", "{9630A507-9413-45ED-9034-13EAC006C785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CD0F44-AFFE-4E08-965A-410DBC26F04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CD0F44-AFFE-4E08-965A-410DBC26F04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CD0F44-AFFE-4E08-965A-410DBC26F04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CD0F44-AFFE-4E08-965A-410DBC26F04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9630A507-9413-45ED-9034-13EAC006C785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9630A507-9413-45ED-9034-13EAC006C785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9630A507-9413-45ED-9034-13EAC006C785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9630A507-9413-45ED-9034-13EAC006C785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {561BB1F8-8C08-47B1-B7E2-D7ED438E504D}
+	EndGlobalSection
+EndGlobal
